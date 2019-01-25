@@ -1,0 +1,1 @@
+"C:\zanichelli\MySQL\MySQL Server 8.0\bin\mysqld.exe" --defaults-file="C:\zanichelli\MySQL\MySQL Server 8.0\my.ini"
